@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I am currently studying MSc in Project Management and Data Science at HTW Berlin 
+### Formerly, I was working as international sales representative at a global musical instrumental company 
+### One day I decided to convert my career and I am here to archive this journey
+### 
 
 <!--
 **HayateSato/HayateSato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
