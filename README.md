@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/hayate-sato-87b239155/**
 
-- ⚡ Fun fact **I completed a full marathon but have a permanent injury ever since**
+- ⚡ Fun fact **I completed a full marathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
