@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hayate Sato</h1>
 <h3 align="center">A passionate Data Science Student from Japan</h3>
 
-- 🔭 I’m currently working on **Electronics Retailer Warehouse**
+- 🔭 I am in the third semester of Masters in Data Science and Project Management
 
 - 📫 How to reach me **https://www.linkedin.com/in/hayate-sato-87b239155/**
 
