@@ -3,7 +3,7 @@
 
 - 🔭 I am in the third semester of Masters in Data Science and Project Management
 
-- 📫 How to reach me **https://www.linkedin.com/in/hayate-sato-87b239155/**
+- 📫 How to reach me **https://www.linkedin.com/in/hayatesato/**
 
 - ⚡ Fun fact **I completed a full marathon**
 
