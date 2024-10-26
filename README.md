@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/hayatesato/**
 
-- ⚡ Fun fact **I completed a full marathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
